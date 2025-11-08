@@ -90,7 +90,7 @@ A classic arcade-style space shooter game built with Python and Pygame, inspired
 - `alien.py`: Alien enemy class
 - `bullet.py`: Projectile mechanics
 - `game_stats.py`: Score and stats tracking
-- `button.py`: UI elements
+- `button.py`: Play button
 - `scoreboard.py`: Score display
 - `game_functions.py`: Core game mechanics
 
