@@ -1,4 +1,4 @@
-# Alien Space Invader 🚀👾
+# Alien Space Invader 
 
 A classic arcade-style space shooter game built with Python and Pygame, inspired by the legendary Space Invaders game. This project was created as part of the Python Crash Course book by Eric Matthes.
 
@@ -97,11 +97,11 @@ A classic arcade-style space shooter game built with Python and Pygame, inspired
 
 Feel free to fork the project and submit pull requests with improvements or bug fixes.
 
-## 📝 License
+## License
 
 This project is open source and available under the MIT License.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Eric Matthes for the Python Crash Course book
 - The Pygame community
